@@ -1,3 +1,9 @@
+## ⚠️ Archive Notice
+
+Blacksmith now supports transparent caching as explained in https://www.blacksmith.sh/blog/cache. To this effect it is recommended to switch to the upstream maintained versions of this action as you will continue to leverage our much faster caching without any code changes. This action will no longer receive dependency or security updates.
+
+---
+
 # setup-uv
 
 Set up your GitHub Actions workflow with a specific version of [uv](https://docs.astral.sh/uv/).
